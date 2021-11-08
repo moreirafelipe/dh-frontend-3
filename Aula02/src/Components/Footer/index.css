@@ -1,0 +1,13 @@
+.footer-items {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: space-around;
+  align-items: center;
+  background-color: orangered;
+  color: #ccc;
+  text-shadow: 2px 2px 2px #000;
+  font-weight: bolder;
+  z-index: 2;
+}

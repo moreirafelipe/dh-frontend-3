@@ -1,0 +1,15 @@
+article, iframe {
+ border-radius: 3px;
+}
+
+article {
+  width: fit-content;
+  display: flex;
+  flex-flow: column wrap;
+  height: fit-content;
+}
+
+.grid-item {
+  margin: 0 auto;
+  width: 80%;
+}

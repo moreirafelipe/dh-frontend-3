@@ -1,0 +1,17 @@
+.items {
+  height: fit-content;
+  display: flex;
+  flex-flow: row nowrap;
+  padding: 25px;
+  margin: 15px auto;
+}
+
+article {
+  padding: 10px;
+  margin: 15px;
+  width: 100%;
+  background-color: orangered;
+  border-radius: 3px;
+  color: #ccc;
+  border-radius: 3px;
+}
