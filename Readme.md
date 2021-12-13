@@ -4,20 +4,30 @@
 
 Repositório de atividades da formação **Certified Tech Developer** **- Digital House**
 
-
-
 #### **Disciplina:** Front-end 3 💻
 
 
 
-#### Organização do repositório:
+#### Tópicos abordados
 
-- O repositório contempla uma disciplina;
-- O arquivo de projeto contém os pacotes de cada aula;
+* Componentes dinâmicos
 
-​	
+- Ciclo de vida dos componentes
+
+- Formulários
+
+- Integrações de API com Fetch an Axios
+
+- Rotas
+
+- Ganchos personalizados
+
+- Estados globais e API de contexto
+
+  
 
 #### Tecnologias envolvidas:
 
-*  React
-*  Redux
+*  React JS
+*  Formik
+*  VS Code
